@@ -1,14 +1,6 @@
-# NLP_COURSE_PROJECT_GROUP1
+# Code Centric Analysis
 NLP_COURSE_PROJECT_GROUP1
-Team: BAT-C
 
-Members:
-- Arshdeep Singh Sachdeva
-- Tanuj Vikramkumar Jain
-- Chirag Jitesh Rana
-- Brij Bhushan Khajuria 
-
----
 ## Dataset including Post.xml files from the following Domains 
 1. Security
 2. Software Engineering
